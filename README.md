@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center">✨ From frontend to full-stack 🔥</p>
+<p align="center">Just a girl turning coffee into code</p>
