@@ -7,11 +7,10 @@
 
 ---
 
-### 😎 About Me
+###  About Me
 - 🎓 Computer Science Student  
 - 💻 Frontend Development  
 - 🧠 Strong in Problem Solving & Algorithms  
-- 🚀 Currently starting Backend Development  
 - 🌱 Always learning and building projects  
 - 🎯 Looking for internships & real-world experience  
 
@@ -45,8 +44,8 @@
 ---
 
 ### 🌐 Connect with me
-- 📧 Email: your-email-here  
-- 💼 LinkedIn: your-link-here  
+- 📧 Email: ra7ma3tia.90@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/rahma-atia-70915633b  
 
 ---
 
