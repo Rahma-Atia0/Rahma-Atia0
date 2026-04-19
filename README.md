@@ -8,11 +8,11 @@
 ---
 
 ###  About Me
-- 🎓 Computer Science Student  
-- 💻 Frontend Development  
-- 🧠 Strong in Problem Solving & Algorithms  
-- 🌱 Always learning and building projects  
-- 🎯 Looking for internships & real-world experience  
+-  Computer Science Student  
+-  Frontend Development  
+- Strong in Problem Solving & Algorithms  
+- Always learning and building projects  
+- Looking for internships & real-world experience  
 
 ---
 
