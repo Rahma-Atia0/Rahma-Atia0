@@ -15,12 +15,13 @@
 - Looking for internships & real-world experience  
 
 ---
-## 🌐 Socials:
+## 🌐 Socials & Coding Profiles:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/rahma-atia-70915633b)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](ra7ma3tia.90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahma-atia-70915633b)
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ra7ma3tia.90@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rahma_Atia)
 [![VJudge](https://img.shields.io/badge/VJudge-%23000000.svg?style=for-the-badge&logo=vjudge&logoColor=white)](https://vjudge.net/user/Rahma_Atia)
+
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
